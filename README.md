@@ -1,9 +1,9 @@
-﻿# [CH2201](https://github.com/sochub/CH2201) 
+﻿# [CH2201](https://github.com/SoCXin/CH2201)
 
-[![sites](http://182.61.61.133/link/resources/SoC.png)](http://SoC.Xin) 
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-#### [Vendor](https://github.com/SoCXin/Vendor) ：[t-head](https://www.t-head.cn/) 
-#### [Core](https://github.com/SoCXin/C-SKY) ：[CK802](https://github.com/SoCXin/CK802) 
+#### [Vendor](https://github.com/SoCXin/Vendor) ：[t-head](https://www.t-head.cn/)
+#### [Core](https://github.com/SoCXin/C-SKY) ：[CK802](https://github.com/SoCXin/CK802)
 #### [Level](https://github.com/SoCXin/Level) ：48MHz * 0.9DMIPS/MHz
 
 ## [CH2201简介](https://github.com/SoCXin/CH2201/wiki)
@@ -12,25 +12,18 @@
 
 #### 关键特性
 
-* 256KB XIP eFlash，80KB SRAM
 * REE/TEE运行环境隔离,硬件加解密引擎，支持AES、RSA、SHA、TRNG等算法
-* 34个独立可编程、复用通用输入输出接口，SPI×2, UART×3, I2C×2, ADC×16, PWM×4, GPIO×34, I2S×1, ACMP×1
+* SPI×2, UART×3, I2C×2, ADC×16, PWM×4, GPIO×34, I2S×1, ACMP×1
 
-封装: QFN64
+封装(QFN64)
 
 ### [资源收录](https://github.com/SoCXin)
 
 * [文档](docs/)
 * [资源](src/)
 
-### [关联资源](https://github.com/SoCXin)
-
-### [开源项目](https://github.com/SoCXin)
-
-
-
 ### [选型建议](https://github.com/SoCXin)
 
 [CH2201](https://github.com/SoCXin/CH2201)
 
-###  [SoC芯平台](http://SoC.Xin) 
+###  [SoC芯平台](http://www.SoC.Xin)
