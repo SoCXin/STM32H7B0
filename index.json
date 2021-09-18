@@ -1,0 +1,31 @@
+{
+    "type":"MCU",
+    "name":"STM32H7B0",
+    "title": "ST STM32H7B0 MCU",
+    "description":"ST Cortex-M7 MCU",
+    "Core": {
+        "type":"Cortex-M7",
+        "Freq":550,
+        "DMIPS": 1177,
+        "CoreMark": 2778
+    },
+    "manufacturer": {
+        "vendor":"ST",
+        "homepage":"https://www.st.com/zh/microcontrollers-microprocessors/stm32h7b0-value-line.html"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SoCXin/STM32H7B0.git"
+    },
+    "version":"1.0.0",
+    "series":["STM32H7B0","STM32H7B3"],
+    "package":["TFBGA240","UFBGA176","LQFP176","LQFP144","LQFP100"],
+    "peripheral": ["ADC","UART","I2C","SPI","PWM"],
+    "keywords": [
+        "dev-platform",
+        "ARM",
+        "Cortex-M",
+        "ADC","DAC","SDIO","CAN","I2C","RTC","SPI",
+        "3.6V","1.8V"
+    ]
+}
