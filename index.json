@@ -5,9 +5,9 @@
     "description":"ST Cortex-M7 MCU",
     "Core": {
         "type":"Cortex-M7",
-        "Freq":550,
-        "DMIPS": 1177,
-        "CoreMark": 2778
+        "Freq":280,
+        "DMIPS": 599,
+        "CoreMark": 1414
     },
     "manufacturer": {
         "vendor":"ST",
@@ -19,7 +19,7 @@
     },
     "version":"1.0.0",
     "series":["STM32H7B0","STM32H7B3"],
-    "package":["TFBGA240","UFBGA176","LQFP176","LQFP144","LQFP100"],
+    "package":["LQFP176","UFBGA176","LQFP64","LQFP144","LQFP100"],
     "peripheral": ["ADC","UART","I2C","SPI","PWM"],
     "keywords": [
         "dev-platform",
